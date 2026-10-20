@@ -1,0 +1,5 @@
+Author: Spencer Novaco
+Creation Date: 10/20/2026
+Last Update: 10/20/2026
+
+This directory makes up my submission for HW#5 for ECE5831 Fall 2026 Semester. This directory is broken up into two sub-directories, problem 1 and problem 2. My submission for problem 1 can be found in `rock-paper-scissors/` and contains 2 directories containing test images and the trained model, and the test jupyter notebook for running the trained model. The model was trained using Google Teachable Machine using a dataset downloaded from Kaggle published by Sani Kamal see https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset for more details. To run this program ensure you have python 3.11 installed and install the requirements.txt file. My submission for problem 2 can be found in `mnist/` contains 2 directories, all the pngs and the models, as well as the jupyter notebook testing the model. The model was provided with this assignment and the image dataset was downloaded from Kaggle and published by Andre Meier see https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9 for more details. 
